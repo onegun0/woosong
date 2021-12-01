@@ -1,0 +1,17 @@
+모듈 - 함수나 변수, 클래스를 모아 놓은 파일
+- 파이썬 파일이라고도 한다     .py
+- 많은 모듈을 사용하게 된다
+- 이미 만들어 놓은 모듈을 사용함
+- 모듈 불러오기: import 모듈이름
+
+open(file)
+
+-경로: 절대 경로_디스크명:\폴더\파일명
+        상대 경로_현재위치 기준  ./../상위경로
+ 
+
+C:\Windows\test>cd ./../System
+
+C:\Windows\System>cd ./../test
+
+C:\Windows\test>cd C:\Windows\System
