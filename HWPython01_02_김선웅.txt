@@ -1,0 +1,18 @@
+C:\Users\WSU>cd C:\python_test
+
+C:\python_test>dir
+ C 드라이브의 볼륨에는 이름이 없습니다.
+ 볼륨 일련 번호: AEB7-BBCF
+
+ C:\python_test 디렉터리
+
+2021-11-08  오후 02:42    <DIR>          .
+2021-11-08  오후 02:42    <DIR>          ..
+2021-11-08  오후 02:09               205 pythonTEST_김선웅.txt
+2021-11-08  오후 02:40                47 test_02.py
+               2개 파일                 252 바이트
+               2개 디렉터리  156,460,367,872 바이트 남음
+
+C:\python_test>test_02.py
+50
+3020
